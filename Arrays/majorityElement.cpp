@@ -6,7 +6,7 @@ class Solution{
     // a: input array
     // size: size of input array
     int majorityElement(int a[], int size) {
-        int count = 0, res;
+        int count = 0, res = -1;
         for(int i = 0; i < size; i++) {
             if(count == 0) {
                 res = i;
