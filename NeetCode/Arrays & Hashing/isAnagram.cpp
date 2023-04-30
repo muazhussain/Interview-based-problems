@@ -20,5 +20,5 @@ public:
 	Time complexity: O(n)
 	Space complexity: O(n)
 	
-	Explanation: Count frequency of each character of both strings. If the frequency of each character is equal then it's an anagram otherwise it's not.
+	Explanation: Count the frequency of each character in both strings. If the frequency of each character is equal, then it's an anagram; otherwise, it's not.
 */
