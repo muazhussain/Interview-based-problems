@@ -1,4 +1,5 @@
 // Problem link: https://leetcode.com/problems/sort-colors/description/
+// Problem link: https://www.codingninjas.com/codestudio/problems/sort-an-array-of-0s-1s-and-2s_892977?leftPanelTab=0
 // Datch National Flag Algorithm
 
 class Solution {
